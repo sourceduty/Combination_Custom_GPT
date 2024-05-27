@@ -7,9 +7,14 @@ Combination Custom GPT Process Flow:
 `Custom GPT1 → Custom GPT2 → Custom GPT3 → Custom GPT4`
 
 #
-### Sciecne Reporter
+### Science Reporter
 
 [Science Reporter](https://chatgpt.com/g/g-DC4zgcQIN-science-reporter) is a specialized combination custom GPT that was developed to assist users in conducting scientific research, ensuring data quality, optimizing documents, and creating engaging visuals. This GPT guides users through a structured process to achieve comprehensive and polished outputs. The process includes generating relevant research, verifying and enhancing information quality, optimizing document formats and content, and finally, creating compelling headlines and pictures to accompany the finished work. 'Science Reporter' aims to streamline complex tasks and provide users with a clear, step-by-step approach to scientific reporting and documentation.
+
+#
+### Related Links
+
+[Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
